@@ -75,7 +75,7 @@
 		qcom,mdss-dsi-te-check-enable;
 		qcom,mdss-dsi-te-using-te-pin;
 		qcom,fod-dim-lut = <
-			0	255
+			0	240
 			10	240
 			145	237
 			315	233
